@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Data science, data engineering, Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mbale014](https://github.com/mbale014)
+- 👨‍💻 All of my projects are available at [My repo](https://github.com/mbale014)
 
-- 💬 Ask me about **machine learning**
+- 💬 Ask me about **Machine learning**
 
 - 📫 How to reach me **mhmmdiqbaal014@gmail.com**
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:AP:44cba256-58f2-47ed-97b3-518aaf2ab259](https://acrobat.adobe.com/id/urn:aaid:sc:AP:44cba256-58f2-47ed-97b3-518aaf2ab259)
+- 📄 Know about my experiences [My latest CV](https://acrobat.adobe.com/id/urn:aaid:sc:AP:44cba256-58f2-47ed-97b3-518aaf2ab259)
 
 - ⚡ Fun fact **Outside of work, I enjoy do jogging and recently ive been achieved some good miles. It's a great way to unwind and stay healthy**
 
