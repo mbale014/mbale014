@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iqbal</h1>
-<h3 align="center">A Civil engineer graduate with a passion in big data from Indonesia</h3>
+<h3 align="center">A Civil engineer graduate transitioning to data with a passion in big data from Indonesia</h3>
 
 - 🌱 I’m currently learning **Data science, data engineering, Machine learning**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:AP:44cba256-58f2-47ed-97b3-518aaf2ab259](https://acrobat.adobe.com/id/urn:aaid:sc:AP:44cba256-58f2-47ed-97b3-518aaf2ab259)
 
-- ⚡ Fun fact **I think iam Ambitious and fast learner**
+- ⚡ Fun fact **Outside of work, I enjoy do jogging and recently ive been achieved some good miles. It's a great way to unwind and stay healthy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
